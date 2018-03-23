@@ -7,7 +7,9 @@ Installation
 Clone & run
 
 ```bash
-npm install
+$ git clone https://github.com/ringcentral-tutorials/react-redux-demo
+$ cd react-redux-demo
+$ npm install
 ```
 
 Create `.env` file in the root with the following:
@@ -26,7 +28,7 @@ Usage
 Run
 
 ```bash
-npm start
+$ npm start
 ```
 
 A browser will open `http://localhost:3000`

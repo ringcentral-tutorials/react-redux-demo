@@ -4,10 +4,12 @@ RingCentral React Redux Tutorial
 Installation
 ------------
 
-Clone & run
+Clone the repository and configure the app.
 
 ```bash
-npm install
+$ git clone https://github.com/ringcentral-tutorials/react-redux-demo
+$ cd react-redux-demo
+$ npm install
 ```
 
 Create `.env` file in the root with the following:
@@ -23,10 +25,10 @@ Add `http://localhost:3000/login` to Redirect URIs of your app in developer port
 Usage
 -----
 
-Run
+Run the app.
 
 ```bash
-npm start
+$ npm start
 ```
 
-A browser will open `http://localhost:3000`
+A browser will open `http://localhost:3000`.
